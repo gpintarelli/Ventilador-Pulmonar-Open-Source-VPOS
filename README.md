@@ -19,8 +19,4 @@
 
 1. [Partes]
 
-
-
-
-
-[Partes]:docs/Hardware Parts.md
+[Partes]: docs/Hardware Parts.md
