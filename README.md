@@ -44,3 +44,9 @@ Parte eletrônica de equipamento de emergência para COVID19 para fabricação n
 1. [Partes]
 
 [Partes]: docs/HW-Parts.md
+
+## Referências
+1. Artigo Ventilação mecânica: princípios, análise gráfica e modalidades ventilatórias [franca-etal.pdf]
+
+[Partes]: docs/franca-etal.pdf
+
