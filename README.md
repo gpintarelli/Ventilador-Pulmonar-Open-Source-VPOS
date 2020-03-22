@@ -18,19 +18,24 @@ VPOS V1.0
 1. Fail SAFE. Gerar um alarme em caso de falha. Os modos de falha a serem alarmados incluem (mas não estão limitados a) perda de pressão e perda de O2.
 
 ## Ideias
-### Controle, microcontrolador (MCU)
-1. Kit de desenvolvimento Arduino NANO
-1. Shield de parafusos
+### Controle, microcontrolador (MCU):
+1. Kit de desenvolvimento Arduino Nano → O Ard. Nano tem o mesmo hardware do arduino Uno. Ele é barata e facilmente disponível.
+1. Shield de parafusos → Conexões por apertos pode ser uma boa solução (aceitamos sugestões!).
 ### Interface homem-máquina (IHM):
-1. Tela LCD 16x2 com módulo i2c para menu de configurações
-1. Teclado matricial de membrana para configurar
-1. Sirene 12V para alarmes
+1. Tela LCD 16x2 com módulo i2c para menu de configurações → Facilmente acessível.
+1. Teclado matricial de membrana para configurar → O teclado pode ser configurado para confirar o VPOS.
+1. Sirene 12V (+ módulo relé) para alarmes → Essa sirene serve de alerta de emergência. O buzzer é muito baixo para esse tipo de alerta.
+1. Buzzer 5V → Usado para feedback do aperto de botões e configurações.
 ### Sistema de atuação:
-1. Motores tipo NEMA (NEMA17 ou NEMA23)
-1. Driver TB6600 para acionar os motores NEMA (esse driver é genérico e permite uso com os mais diversos motores)
+1. Motores tipo NEMA (NEMA17 ou NEMA23) → Versátil e facilmente disponível.
+1. Driver TB6600 para acionar os motores NEMA → Esse driver é genérico e permite uso com os mais diversos motores.
 ### Conversão de energia / sistema elétrico:
 1. Fonte de alimentação de 24V @5A
-1. Módulo DC/DC ajustado em 5V para alimentar o arduino
+1. Módulo DC/DC ajustado em 5V para alimentar o arduino.
+
+## Esquema eletrônico
+![Driver](/pics/Drawing_geral.jpg)
+
 
 ## Conteúdo
 
