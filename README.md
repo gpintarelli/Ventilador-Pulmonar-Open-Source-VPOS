@@ -1,5 +1,6 @@
 # Ventilador Pulmonar Open Source VPOS
 VPOS V1.0
+Parte eletrônica de equipamento de emergência para COVID19 para fabricação no Brasil.
 
 ## Objetivos:
 
@@ -32,6 +33,7 @@ VPOS V1.0
 ### Conversão de energia / sistema elétrico:
 1. Fonte de alimentação de 24V @5A
 1. Módulo DC/DC ajustado em 5V para alimentar o arduino.
+1. Botão parada de emergência industrial.
 
 ## Esquema eletrônico
 ![Driver](/pics/Drawing_geral.jpg)

@@ -21,6 +21,9 @@
 ## Sirene alarme 12V
 ![Sirene](/pics/sirene-12v.jpg)
 
+## Relé em módulo
+![Relé](/pics/rele-arduino.jpg)
+
 ## Fonte 12V 5A
 ![Fonte](/pics/fonte-12v-5a.jpg)
 
