@@ -14,3 +14,9 @@
 1. Prevenção de pontos quentes.
 1. Ser capaz de respirar para um paciente inconsciente que é incapaz de respirar por si mesmo. Capacidade de sentir quando um paciente está respirando e apoiar que a respiração é desejável, mas não essencial.
 1. Fail SAFE. Gerar um alarme em caso de falha. Os modos de falha a serem alarmados incluem (mas não estão limitados a) perda de pressão e perda de O2.
+
+## Conteúdo
+
+[Partes](docs/Hardware Parts.md)
+
+
