@@ -48,7 +48,11 @@ Parte eletrônica de equipamento de emergência para COVID19 para fabricação n
 ## Referências
 1. [Artigo Ventilação mecânica: princípios, análise gráfica e modalidades ventilatórias]
 1. [Grupo COVID-19 Air BRASIL]
+1. [CoronaVirus Makers]
 
 [Artigo Ventilação mecânica: princípios, análise gráfica e modalidades ventilatórias]: http://www.scielo.br/pdf/jbpneu/v33s2/a02v33s2.pdf
 
 [Grupo COVID-19 Air BRASIL]: https://www.facebook.com/groups/235476464265909/
+
+[CoronaVirus Makers]: https://gitlab.com/coronavirusmakers
+
