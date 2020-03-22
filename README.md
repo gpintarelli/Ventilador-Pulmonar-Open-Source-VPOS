@@ -19,4 +19,4 @@
 
 1. [Partes]
 
-[Partes]: docs/Hardware Parts.md
+[Partes]: docs/HW-Parts.md
