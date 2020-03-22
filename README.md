@@ -57,4 +57,4 @@ Parte eletrônica de equipamento de emergência para COVID19 para fabricação n
 
 [CoronaVirus Makers]: https://gitlab.com/coronavirusmakers
 
-[Open hardware projects working to solve COVID-19]: [https://opensource.com/article/20/3/open-hardware-covid19
+[Open hardware projects working to solve COVID-19]: https://opensource.com/article/20/3/open-hardware-covid19
