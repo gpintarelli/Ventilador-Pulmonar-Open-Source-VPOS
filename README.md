@@ -17,6 +17,10 @@
 
 ## Conteúdo
 
-[Partes](docs/Hardware Parts.md)
+1. [Partes]
 
 
+
+
+
+[Partes]:docs/Hardware Parts.md
