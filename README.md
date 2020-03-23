@@ -7,6 +7,7 @@ Parte eletrônica de equipamento de emergência para COVID19 para fabricação n
 1. Automatizar conceiros de balão de Ambu (balão de reanimação).
 1. Sistema mais simples possível, somente com os componentes estritamente necessários e disponíveis na forma de um módulo, para evitar soldas e montagens complicadas.
 1. Sistema com partes facilmente disponíveis em lojas on-line.
+1. O software embarcado deve detectar quais periféricos estão disponíveis e adequar o modo de operação, por exemplo, podem existir ou não display e teclado. Obs.: Sem display e teclado o equipamento opera em modo padrão a ser definido (exemplo 12 ciclos de respiração/min.).
 
 ## Requisitos (eletrônica):
 
