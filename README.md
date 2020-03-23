@@ -50,6 +50,7 @@ Parte eletrônica de equipamento de emergência para COVID19 para fabricação n
 1. [Grupo COVID-19 Air BRASIL]
 1. [CoronaVirus Makers]
 1. [Open hardware projects working to solve COVID-19]
+1. [COVID-19 Ventilator Projects and Resources and FAQ]
 
 [Artigo Ventilação mecânica: princípios, análise gráfica e modalidades ventilatórias]: http://www.scielo.br/pdf/jbpneu/v33s2/a02v33s2.pdf
 
@@ -58,3 +59,7 @@ Parte eletrônica de equipamento de emergência para COVID19 para fabricação n
 [CoronaVirus Makers]: https://gitlab.com/coronavirusmakers
 
 [Open hardware projects working to solve COVID-19]: https://opensource.com/article/20/3/open-hardware-covid19
+
+[COVID-19 Ventilator Projects and Resources and FAQ]: https://github.com/PubInv/covid19-vent-list
+
+
